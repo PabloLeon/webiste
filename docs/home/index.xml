@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Pablo León-Villagrá</title>
-    <link>https://pabloleon.github.io/home/</link>
+    <link>https://pabloleon.github.io/website/home/</link>
     <description>Recent content in Homes on Pablo León-Villagrá</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://pabloleon.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pabloleon.github.io/website/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://pabloleon.github.io/home/about/</link>
+      <link>https://pabloleon.github.io/website/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://pabloleon.github.io/home/about/</guid>
+      <guid>https://pabloleon.github.io/website/home/about/</guid>
       <description>I am a third year Ph.D. student at the University of Edinburgh. I want to understand how the (human) mind represents the world and how this representation allows generalization and transfer. To analyze this I compare human learning and generalization with performance and dynamics of machine learning algorithms and computational models.
 My supervisor is Christopher Lucas. During my B.Sc. and M.Sc. I worked with Frank Jäkel at the University of Osnabrück and with David Lagnado at UCL London.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://pabloleon.github.io/home/publications/</link>
+      <link>https://pabloleon.github.io/website/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://pabloleon.github.io/home/publications/</guid>
+      <guid>https://pabloleon.github.io/website/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://pabloleon.github.io/home/talks/</link>
+      <link>https://pabloleon.github.io/website/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://pabloleon.github.io/home/talks/</guid>
+      <guid>https://pabloleon.github.io/website/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://pabloleon.github.io/home/contact/</link>
+      <link>https://pabloleon.github.io/website/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://pabloleon.github.io/home/contact/</guid>
+      <guid>https://pabloleon.github.io/website/home/contact/</guid>
       <description></description>
     </item>
     
