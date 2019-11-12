@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
       <description>I am a fourth year Ph.D. student at the University of Edinburgh. I want to understand how the (human) mind represents the world and how this representation allows generalization and transfer. To analyze this I compare human learning and generalization with performance and dynamics of machine learning algorithms and computational models.
