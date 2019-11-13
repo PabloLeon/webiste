@@ -1,5 +1,5 @@
 +++
-title = "Data Availability and Function Extrapolation"
+title = "Exploring the Representation of Linear Functions"
 date = 2019-08-27T17:38:22+01:00
 draft = false
 
@@ -22,8 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = """Function learning research has highlighted the importance of human inductive biases that facilitate long-range extrapolations. However, most previous research is focused on aggregate errors or single-criterion extrapolations. Thus, little is known about the underlying psychological space in which continuous relationships are represented. We ask whether people can learn the distributional properties of new classes of relationships, using Markov Chain Monte Carlo with People, and
-find that people are able to track not just the expected parameters of a linear function, but information about the variability of functions in a specific context and in many cases
+abstract = """Function learning research has highlighted the importance of human inductive biases that facilitate long-range extrapolations. However, most previous research is focused on aggregate errors or single-criterion extrapolations. Thus, little is known about the underlying psychological space in which continuous relationships are represented. We ask whether people can learn the distributional properties of new classes of relationships, using Markov Chain Monte Carlo with People, and find that people are able to track not just the expected parameters of a linear function, but information about the variability of functions in a specific context and in many cases
 these spaces over parameters exhibit multiple modes."""
 abstract_short = ""
 
