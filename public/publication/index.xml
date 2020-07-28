@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Pablo León-Villagrá</title>
@@ -11,6 +11,24 @@
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uncovering Category Representations with Linked MCMC with people</title>
+      <link>/publication/mcmcpm/</link>
+      <pubDate>Tue, 28 Jul 2020 15:55:26 -0400</pubDate>
+      
+      <guid>/publication/mcmcpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Representation of Linear Functions</title>
+      <link>/publication/fruitmcmcp/</link>
+      <pubDate>Tue, 28 Jul 2020 17:38:22 +0100</pubDate>
+      
+      <guid>/publication/fruitmcmcp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring the Representation of Linear Functions</title>

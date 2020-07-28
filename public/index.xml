@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo León-Villagrá on Pablo León-Villagrá</title>
@@ -10,20 +11,74 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Talks</title>
-      <link>/talk/</link>
-      <pubDate>Mon, 27 Aug 2018 17:21:26 +0100</pubDate>
+      <title>Uncovering Category Representations with Linked MCMC with people</title>
+      <link>/publication/mcmcpm/</link>
+      <pubDate>Tue, 28 Jul 2020 15:55:26 -0400</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>/publication/mcmcpm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Exploring the Representation of Linear Functions</title>
+      <link>/publication/fruitmcmcp/</link>
+      <pubDate>Tue, 28 Jul 2020 17:38:22 +0100</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/publication/fruitmcmcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Representation of Linear Functions</title>
+      <link>/publication/mcmcplin/</link>
+      <pubDate>Tue, 27 Aug 2019 17:38:22 +0100</pubDate>
+      
+      <guid>/publication/mcmcplin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Functions in Sparse Domains</title>
+      <link>/publication/transfer/</link>
+      <pubDate>Tue, 27 Aug 2019 17:38:22 +0100</pubDate>
+      
+      <guid>/publication/transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data availability and function extrapolation</title>
+      <link>/talk/kogwis2018/</link>
+      <pubDate>Mon, 27 Aug 2018 17:21:26 +0100</pubDate>
+      
+      <guid>/talk/kogwis2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Availability and Function Extrapolation</title>
+      <link>/publication/data-availability/</link>
+      <pubDate>Fri, 27 Jul 2018 17:38:22 +0100</pubDate>
+      
+      <guid>/publication/data-availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-like Function Learning and Transfer</title>
+      <link>/talk/transferfunctions/</link>
+      <pubDate>Wed, 24 May 2017 17:49:36 +0100</pubDate>
+      
+      <guid>/talk/transferfunctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorization and Abstract Similarity in Chess</title>
+      <link>/publication/similarity-chess/</link>
+      <pubDate>Sat, 27 Jul 2013 17:38:40 +0100</pubDate>
+      
+      <guid>/publication/similarity-chess/</guid>
       <description></description>
     </item>
     
